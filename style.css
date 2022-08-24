@@ -50,6 +50,8 @@ h2 {
 }
 .nn {
 	-moz-image-region: right;
+	width: 200px;
+	height: 150px;
 }
 a {
 	font-size: 20px;
