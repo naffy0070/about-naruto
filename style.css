@@ -1,0 +1,57 @@
+h1 {
+	color: orange;
+	background-color: blue;
+	text-align: center;
+	font-size: 70px;
+	}
+body {
+	background-color: black;
+}
+p {
+	color: red;
+	font-size: 20px;
+
+}
+h3 {
+	color: orange;
+	font-style: italic;
+	font-weight: bold;
+}
+h4 {
+	color: white;
+	font-style: italic;
+	}
+.img {
+	border: solid;
+	color: white;
+    border-spacing: 10cm;
+}
+.im {
+	width: 200;
+	height: 150;
+	}
+.link {
+	font-size: 20px;
+	
+}
+.vid {
+	color: white;
+}
+.logo {
+	width: 100px;
+	height: 100px;
+}
+h2 {
+	color: orange;
+	background-color: blue;
+	text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+}
+.nn {
+	-moz-image-region: right;
+}
+a {
+	font-size: 20px;
+	color: blue;
+}
