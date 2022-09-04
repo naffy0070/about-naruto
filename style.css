@@ -5,7 +5,7 @@ h1 {
 	font-size: 70px;
 	}
 body {
-	background-color: black;
+	background-color:black;
 }
 p {
 	color: red;
@@ -50,10 +50,19 @@ h2 {
 }
 .nn {
 	-moz-image-region: right;
-	width: 200;
-	height: 150
 }
 a {
 	font-size: 20px;
 	color: blue;
+}
+lI {
+	color: white;
+}
+.limg {
+	border: solid black;
+	border-radius: 50px;
+	height: 100px;
+	width: 100px;
+	background-color: black
+    
 }
