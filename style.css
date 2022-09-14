@@ -50,6 +50,10 @@ h2 {
 }
 .nn {
 	-moz-image-region: right;
+	float: left;
+	height: 250px;
+	width: 350px;
+	margin: 10px;
 }
 a {
 	font-size: 20px;
@@ -65,4 +69,8 @@ lI {
 	width: 100px;
 	background-color: black
     
+}
+.part1 {
+	float: left;
+	margin: 5px;
 }
