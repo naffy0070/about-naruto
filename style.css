@@ -72,5 +72,7 @@ lI {
 }
 .part1 {
 	float: left;
-	margin: 5px;
+	margin: 10px;
+	height: 150px;
+	width: 200px:
 }
